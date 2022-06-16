@@ -1,0 +1,15 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\bin\Debug\net5.0\87-ArrayOrdenadoMetodoSort.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\bin\Debug\net5.0\87-ArrayOrdenadoMetodoSort.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\bin\Debug\net5.0\87-ArrayOrdenadoMetodoSort.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\bin\Debug\net5.0\87-ArrayOrdenadoMetodoSort.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\bin\Debug\net5.0\87-ArrayOrdenadoMetodoSort.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\bin\Debug\net5.0\ref\87-ArrayOrdenadoMetodoSort.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\bin\Debug\net5.0\87-ArrayOrdenadoMetodoSort.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\87-ArrayOrdenadoMetodoSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\87-ArrayOrdenadoMetodoSort.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\87-ArrayOrdenadoMetodoSort.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\87-ArrayOrdenadoMetodoSort.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\87-ArrayOrdenadoMetodoSort.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\ref\87-ArrayOrdenadoMetodoSort.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\87-ArrayOrdenadoMetodoSort.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-ArrayOrdenadoMetodoSort\obj\Debug\net5.0\87-ArrayOrdenadoMetodoSort.genruntimeconfig.cache
